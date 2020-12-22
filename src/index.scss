@@ -1,6 +1,9 @@
+$font-primary: Noto Sans HK, sans-serif;
+$font-secondary: Calibri, sans-serif;
+
 .body {
   text-align: center;
-  font-family: Noto Sans HK;
+  font-family: $font-primary;
   padding: 20px;
   background: linear-gradient(rgb(255, 255, 255), rgb(245, 245, 245));
   min-height: 100vh;
